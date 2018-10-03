@@ -1,0 +1,1 @@
+Use the text file abc.txt and write its contents in another file xyz.txt. Print the contents of xyz.txt for verification.
